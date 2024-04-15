@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>https://posicionamiento-seo-mexico.com</link>
+	<description>Servicios de Posicionamiento Web SEO en México. Estrategias de Posicionamiento Web en Buscadores, Empresa de Posicionamiento SEO en México - Agencia SEO</description>
+	<lastBuildDate>Thu, 31 Mar 2016 22:19:45 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>¿Para qué sirven las URL canonical?</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/para-que-sirven-las-url-canonical/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/para-que-sirven-las-url-canonical/#respond</comments>
+		<pubDate>Thu, 31 Mar 2016 17:15:57 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[redirección 301]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[URL canonical]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=627</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Las URL canonical son etiquetas HTML que funcionan para controlar el contenido duplicado. Estos códigos indican cuál es la página original y de hecho, esa es la que Google y demás buscadores identifican y arrojan como principal resultado. La idea es optimizar el posicionamiento del contenido de tu sitio web. Utilizar las URL canonical son&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/para-que-sirven-las-url-canonical/">¿Para qué sirven las URL canonical?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">13</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/para-que-sirven-las-url-canonical/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFPara%20qu%C3%A9%20sirven%20las%20URL%20canonical%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/para-que-sirven-las-url-canonical/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Las <em>URL canonical</em> son etiquetas HTML que funcionan para controlar el contenido duplicado. Estos códigos indican cuál es la página original y de hecho, esa es la que Google y demás <a href="/blog-seo/cual-sera-el-mejor-buscador-web/" target="_blank">buscadores</a> identifican y arrojan como principal resultado.</p>
+<p style="text-align: justify;">La idea es optimizar el <a href="/blog-seo/recomendaciones-para-aumentar-el-posicionamiento/" target="_blank">posicionamiento del contenido</a> de tu sitio web. Utilizar las URL canonical son para indicar a Google cuál de las páginas que tienen contenido duplicado se debe manejar y con esto, Google elige de inmediato el contenido original. Realmente es muy sencillo utilizar las URL canonical solo debes anexar a tus páginas algo parecido a:</p>
+<p style="text-align: justify;">&lt;link rel=”canonical” href=”http://www.tusitioweb.com/original-web.html” /&gt;</p>
+<p style="text-align: justify;">“original-web.html” se supone que es la versión original de tu sitio web, el que Google debe tomar en cuenta como resultado principal.</p>
+<p style="text-align: justify;">Ahora existe también la <em>redirección 301</em>, funciona para el contenido duplicado para hacer entender a los buscadores que un sitio web ha cambiado la ubicación, de esta manera atraes el tráfico al sitio web. Con la redirección 301 envías al usuario y al buscador a versión original del sitio, mientras que con las URL canonical mandas la versión original del sitio web a los principales buscadores</p>
+<p style="text-align: justify;">Con las URL canonical manejas las siguientes acciones:</p>
+<ul style="text-align: justify;">
+<li>Controlar las direcciones con ciertos pasos</li>
+<li>Configurar las rutas hacia un mismo contenido</li>
+<li>Las aplicaciones que estarán disponibles en lso dispositivos tengan direcciones independientes</li>
+<li>Dar a conocer la versión original del contenido</li>
+</ul>
+<p><iframe width="1200" height="675" src="https://www.youtube.com/embed/Cm9onOGTgeM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">13</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/para-que-sirven-las-url-canonical/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFPara%20qu%C3%A9%20sirven%20las%20URL%20canonical%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/para-que-sirven-las-url-canonical/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/para-que-sirven-las-url-canonical/">¿Para qué sirven las URL canonical?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/para-que-sirven-las-url-canonical/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Moz y sus herramientas gratuitas</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/moz-y-sus-herramientas-gratuitas/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/moz-y-sus-herramientas-gratuitas/#respond</comments>
+		<pubDate>Mon, 28 Mar 2016 19:52:24 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Moz]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[redes sociales]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[sitio web]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=622</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Moz es una herramienta SEO muy funcional para el posicionamiento web y el marketing digital en redes sociales. Aunque en un principio era un blog de expertos en marketing y SEO, se transformó en una herramienta esencial en 2009 donde se creaban y desarrollaban software orientado al SEO. El objetivo pasó a convertirse en una&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/moz-y-sus-herramientas-gratuitas/">Moz y sus herramientas gratuitas</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/moz-y-sus-herramientas-gratuitas/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Moz%20y%20sus%20herramientas%20gratuitas&url=https://posicionamiento-seo-mexico.com/blog-seo/moz-y-sus-herramientas-gratuitas/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;"><a href="https://moz.com/" target="_blank">Moz</a> es una herramienta SEO muy funcional para el posicionamiento web y el marketing digital en redes sociales. Aunque en un principio era un blog de expertos en marketing y SEO, se transformó en una herramienta esencial en 2009 donde se creaban y desarrollaban software orientado al <a href="/blog-seo/6-mitos-del-seo/" target="_blank">SEO</a>.</p>
+<p style="text-align: justify;">El objetivo pasó a convertirse en una visión más amplia para adentrarse a otros mercados donde el marketing digital estaba tomando importancia. Desde este punto surgieron nuevas herramientas para optimizar el manejo de las <a href="http://blog.kreativoz.com.mx/marketing-online/errores-se-cometen-en-redes-sociales/" target="_blank">redes sociales</a> y mejorar el marketing digital.</p>
+<p style="text-align: justify;">Moz tiene un conjunto de <em>herramientas gratuitas</em>, que brindan amplia información muy útil, y <em>herramientas de pago</em> para obtener información extra y servicios adicionales que también son de gran utilidad.</p>
+<p style="text-align: justify;">&#8211; <strong>Open Site Explorer</strong>: Una herramienta muy útil para analizar los enlaces de cualquier sitio web. Comprende filtros como:</p>
+<ul style="text-align: justify;">
+<li>Dominio y Subdominio: Te segmenta los enlaces dependiendo el dominio.</li>
+<li>Tipo de enlace: Enlaces NoFollow y DoFollow para corroborar cuántos de los enlaces tienen autoridad.</li>
+<li>Anchor Text: Qué texto se utilizó para arrojar el enlace.</li>
+<li>Popularidad y Autoridad: Open Site Explorer asigna una nota a las páginas de acuerdo a unas variantes y determinar el funcionamiento de los enlaces y la autoridad del sitio web.</li>
+</ul>
+<p style="text-align: justify;">Open Site Explorer es una herramienta ideal para hacer un análisis completo, no solo del propio sitio web sino para evaluar la competencia y conocer el manejo de los enlaces.</p>
+<ul style="text-align: justify;">
+<li><strong>Followerwonk</strong>: Es una herramienta ideal para analizar una marca o empresa en Twitter. Aunque es una herramienta que se vale más de la interpretación de resultados. Obtienes resultados referentes sobre quiénes son y de dónde vienen los seguidores, qué hora se activan, sobre qué hablan o quiénes puedes seguir. Es una herramienta necesaria para crear contenido en Twitter y evaluar las posibilidades de conectar con una comunidad digital.</li>
+<li><strong>Moz Bar</strong>: La herramienta más utilizada de Moz por los resultados que arroja sobre cualquier página de forma rápida y eficiente. Con solo instalar una barra de navegación en la parte superior de la página, te arrojarán resultados y un análisis concreto de cada página que visitas datos como DA y PA, relacionados al dominio y autoridad de la página.</li>
+<li><strong>Moz Local</strong>: Básicamente esta es una herramienta estratégica para colocar tu sitio web en los mejores directorios. Esta herramienta ayuda al posicionamiento en los resultados geolocalizados de Google. Obtienes resultados gráficos y estadísticos para analizar el progreso del negocio en el mundo digital.</li>
+<li><strong>Moz Cast</strong>: Existen cambios en Google que pueden afectar el <a href="/blog-seo/recomendaciones-para-aumentar-el-posicionamiento/" target="_blank">posicionamiento</a> de tu sitio web en mayor o menor medida. Básicamente con esta herramienta obtienes resultados sobre el estado de ánimo de Google con informes que simulan ser el de un estado del clima. Se refiere a los cambios de algoritmos de Google.</li>
+</ul>
+<p style="text-align: justify;">Estas son todas las herramientas gratuitas de Moz, existen otras posibilidades de mayor utilidad que son pagas.</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/moz-y-sus-herramientas-gratuitas/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Moz%20y%20sus%20herramientas%20gratuitas&url=https://posicionamiento-seo-mexico.com/blog-seo/moz-y-sus-herramientas-gratuitas/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/moz-y-sus-herramientas-gratuitas/">Moz y sus herramientas gratuitas</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/moz-y-sus-herramientas-gratuitas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Qué es Google Webmaster Tools?</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-webmaster-tools/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-webmaster-tools/#respond</comments>
+		<pubDate>Thu, 24 Mar 2016 00:26:39 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[Webmaster Tools]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=614</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>También conocido como Search Console es una herramienta muy útil y valiosa para conseguir lo que todos anhela con el afamado SEO: tráfico orgánico. Google Webmaster Tools es una herramienta ideal para diagnosticar inconvenientes o problemas en la web. Además te arroja soluciones eficientes para aumentar el tráfico orgánico e informa a Google sobre nuestra&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/que-es-google-webmaster-tools/">¿Qué es Google Webmaster Tools?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-webmaster-tools/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFQu%C3%A9%20es%20Google%20Webmaster%20Tools%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-webmaster-tools/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">También conocido como Search Console <a href="/blog-seo/5-herramientas-utiles-para-hacer-seo/" target="_blank">es una herramienta</a> muy útil y valiosa para conseguir lo que todos anhela con el afamado SEO: tráfico orgánico. <strong>Google Webmaster Tools</strong> es una herramienta ideal para diagnosticar inconvenientes o problemas en la web. Además te arroja soluciones eficientes para aumentar el <a href="/blog-seo/recomendaciones-para-aumentar-el-posicionamiento/" target="_blank">tráfico orgánico</a> e informa a Google sobre nuestra web como preferencia.</p>
+<p style="text-align: justify;">Con Google Webmaster Tools puedes:</p>
+<ul style="text-align: justify;">
+<li>Hacer más accesibles tus páginas web.</li>
+<li>Observar qué hacer con tus páginas web.</li>
+<li>Conocer algún problema con el <a href="http://www.yoseomarketing.com/blog/seo-on-page-seo-on-site/" target="_blank">SEO on Page</a>.</li>
+<li>Detectar si el sitio web contiene malware o si ha sido hackeado.</li>
+<li>Conocer si las palabras claves son las acordes.</li>
+</ul>
+<p style="text-align: justify;">Recuerda que Google Webmaster Tools es una herramienta valiosa para identificar <em>qué sabe Google de tus páginas</em> y cómo las ve, a diferencia de <a href="/blog-seo/que-es-google-analytics/" target="_blank">Google Analytics</a> que analiza las visitas, cómo llegan a las páginas y qué hacen en ellas.</p>
+<p style="text-align: justify;">Webmaster Tools dispone de tres secciones para analizar:</p>
+<ul>
+<li style="text-align: justify;">Diagnóstico: Detecta de qué forma Google indexa nuestra página web, de esta manera conseguir problemas específicos que esté teniendo el buscador para acceder a determinadas partes del contenido.</li>
+<li style="text-align: justify;">Enlaces: Una de las estrategias para optimizar el contenido del sitio web es a través de los enlaces. En esta sección puedes descargar reportes de los enlaces que van y vienen del sitio, es una versión un poco más técnica de cómo los usuarios llegan al sitio web.</li>
+<li style="text-align: justify;">Información compartida: Identificar la importancia de cada página para determinar qué tanto se actualiza y de qué manera se quiere que aparezcan las direcciones URL.</li>
+</ul>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-webmaster-tools/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFQu%C3%A9%20es%20Google%20Webmaster%20Tools%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-webmaster-tools/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/que-es-google-webmaster-tools/">¿Qué es Google Webmaster Tools?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-webmaster-tools/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Las meta etiquetas Dublin Core y Open Graph</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-dublin-core-y-open-graph/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-dublin-core-y-open-graph/#respond</comments>
+		<pubDate>Tue, 22 Mar 2016 20:10:47 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[Dublin Core]]></category>
+		<category><![CDATA[meta datos]]></category>
+		<category><![CDATA[meta etiquetas]]></category>
+		<category><![CDATA[Open Graph]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=612</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Facilitar la descripción y recuperación de la información era una necesidad que los expertos necesitaban cubrir, de hecho el alcance global fue inmediato pues en las ciencias, educación, negocio y administración había numerosos intereses. Los metadatos de Dublin Core son los estándares más extendidos para recuperar información en la red y ser el vocabulario más&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/las-meta-etiquetas-dublin-core-y-open-graph/">Las meta etiquetas Dublin Core y Open Graph</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">17</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-dublin-core-y-open-graph/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Las%20meta%20etiquetas%20Dublin%20Core%20y%20Open%20Graph&url=https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-dublin-core-y-open-graph/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Facilitar la descripción y recuperación de la información era una necesidad que los expertos necesitaban cubrir, de hecho el alcance global fue inmediato pues en las ciencias, educación, negocio y administración había numerosos intereses. Los <strong><a href="https://support.google.com/webmasters/answer/79812?hl=es" target="_blank">metadatos</a> </strong>de Dublin Core son los estándares más extendidos para recuperar información en la red y ser el vocabulario más utilizado en el lenguaje de programación como HTM, XDL, entre otros.</p>
+<p style="text-align: justify;">¿Qué hacen los <strong>metadatos de Dublin Core</strong>? Básicamente ubican en Internet datos para describir, identificar, procesar, encontrar y recuperar cualquier archivo en la red.</p>
+<p style="text-align: justify;">¿Cómo beneficiaría los metadatos de Dublin Core al <a href="/paquetes-seo/paquete-profesional/" target="_blank">SEO</a>?</p>
+<ul style="text-align: justify;">
+<li>Ayudar con motores de búsqueda interna</li>
+<li>Ayudar con el posicionamiento SEO</li>
+<li>Es fácil de implementar</li>
+<li>No exige un cambio drástico del código</li>
+</ul>
+<p style="text-align: justify;">Ahora si deseas difundir tu sitio en la web puedes hacerlo a través de las meta-etiquetas <strong>Open Graph</strong>, no es más que una herramienta para <em>optimizar</em> la difusión de información en las <a href="http://blog.kreativoz.mx/publicidad/mitos-las-redes-sociales/" target="_blank">redes sociales</a> como Facebook, Twitter y Google+.</p>
+<p style="text-align: justify;">Las etiquetas de Open Graph ayudan a identificar elementos principales del artículo que desees compartir como: el título, la imagen, palabras claves, descripción, entre otros.</p>
+<p style="text-align: justify;">Con las <em>metas-etiquetas</em> Open Graph evitas que al compartir un contenido a través de Facebook, por ejemplo, la información que se muestre no sea correcta como que el título no sea el mismo que el artículo compartido o la imagen que se cargue no coincide con el artículo, en fin una serie de aspectos que afectan el SEO de tu sitio web y que <a href="/blog-seo/plugins-seo-para-wordpress/" target="_blank">puedes evitar</a> con las meta etiquetas de Open Graph.</p>
+<p style="text-align: justify;">
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">17</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-dublin-core-y-open-graph/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Las%20meta%20etiquetas%20Dublin%20Core%20y%20Open%20Graph&url=https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-dublin-core-y-open-graph/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/las-meta-etiquetas-dublin-core-y-open-graph/">Las meta etiquetas Dublin Core y Open Graph</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-dublin-core-y-open-graph/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Las metaetiquetas Title y Description</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-title-y-description/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-title-y-description/#respond</comments>
+		<pubDate>Wed, 16 Mar 2016 20:42:57 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[description]]></category>
+		<category><![CDATA[metaetiquetas]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[title]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=600</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Las metaetiquetas son elementos HTML que no están disponible a la vista de los usuarios pero son de gran utilidad para los buscadores, navegadores y otras aplicaciones para que puedan arrojar información sobre un determinado sitio web. Las etiquetas más utilizadas para el posicionamiento y optimización de contenido SEO son las siguientes: El título (Title):&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/las-meta-etiquetas-title-y-description/">Las metaetiquetas Title y Description</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-title-y-description/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Las%20metaetiquetas%20Title%20y%20Description&url=https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-title-y-description/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Las metaetiquetas son elementos HTML que no están disponible a la vista de los usuarios pero son de gran utilidad para los buscadores, navegadores y otras aplicaciones para que puedan arrojar información sobre un determinado sitio web.</p>
+<p style="text-align: justify;">Las etiquetas más utilizadas para el <a href="/paquetes-seo/paquete-profesional/" target="_blank">posicionamiento</a> y <a href="/servicios-seo/optimizacion-seo/" target="_blank">optimización </a>de contenido SEO son las siguientes:</p>
+<p style="text-align: justify;"><strong>El título (Title)</strong>: El elemento más importante de todo sitio web para el SEO, lo ideal es asignar un título desde los siguientes aspectos:</p>
+<ul style="text-align: justify;">
+<li>Títulos originales, precisos y explícitos</li>
+<li>Incluir las <a href="/blog-seo/como-elegir-las-palabras-claves/" target="_blank">palabras claves</a> relacionadas al tema a tratar</li>
+<li>Debe ser breve, se recomienda un límite de 55 caracteres</li>
+<li>Toma en cuenta que el título de la página es el primer aspecto visible al usuario al arrojarse un resultado en el buscador.</li>
+</ul>
+<p style="text-align: justify;">&lt;title&gt;Titulo de la pagina &lt;/title&gt;</p>
+<p style="text-align: justify;"><strong>La descripción (Description)</strong>: El texto descriptivo viene acompañado del título en los resultados de búsqueda, por ello debes tener una redacción con contenido explicativo y eficiente para que el usuario pueda decidir si la página es útil o no y tome acción. Lo ideal es que el texto no se extienda más de 150 caracteres.</p>
+<p style="text-align: justify;">Si el sitio web aparece en los motores de búsqueda con una descripción atractiva y el usuario hace clic en la página web, tendrás mayor ventaja con respecto a otros resultados. Google destaca las palabras claves en los resultados que coinciden con la búsqueda del usuario así que si <a href="http://quiwiq.com/posicionamiento/importancia-meta-etiquetas-seo/952" target="_blank">utilizas palabras claves en la descripción</a>, el usuario podrá ver si la página responde a su objetivo.</p>
+<p style="text-align: justify;">&lt;meta name= “description” content= “texto description” /&gt;</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-title-y-description/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Las%20metaetiquetas%20Title%20y%20Description&url=https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-title-y-description/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/las-meta-etiquetas-title-y-description/">Las metaetiquetas Title y Description</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/las-meta-etiquetas-title-y-description/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Plugins SEO para WordPress</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/plugins-seo-para-wordpress/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/plugins-seo-para-wordpress/#respond</comments>
+		<pubDate>Tue, 15 Mar 2016 20:51:34 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[plugins]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=598</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>WordPress ha sido una de las herramientas más útiles y exitosas al momento de crear una página web de contenido y optimización SEO. Los plugins han sido su característica más poderosa para el posicionamiento SEO. A continuación les explicamos los plugins más importantes para el SEO en WordPress, sin embargo, se recomienda no utilizar más&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/plugins-seo-para-wordpress/">Plugins SEO para WordPress</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">8</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/plugins-seo-para-wordpress/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Plugins%20SEO%20para%20WordPress&url=https://posicionamiento-seo-mexico.com/blog-seo/plugins-seo-para-wordpress/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">WordPress ha sido una de las herramientas más útiles y exitosas al momento de crear una página web de contenido y optimización SEO. Los plugins han sido su característica más poderosa para el <a href="/servicios-seo/mantenimiento-seo/" target="_blank">posicionamiento</a> SEO.</p>
+<p style="text-align: justify;">A continuación les explicamos los plugins más importantes para el SEO en <a href="http://www.xn--diseo-web-mexico-9tb.com/blog/diseno-web-mexico/por-que-usar-wordpress/" target="_blank">WordPress</a>, sin embargo, se recomienda no utilizar más de uno ya que puede afectar el funcionamiento del sitio.</p>
+<p style="text-align: justify;"><strong><a href="https://wordpress.org/plugins/wordpress-seo/" target="_blank">WordPress SEO by Yoast</a></strong>: Con este plugin puedes modificar meta títulos, meta descripciones y palabras claves dentro de los posts para optimizar el contenido del sitio web.</p>
+<p style="text-align: justify;"><strong><a href="https://wordpress.org/plugins/akismet/" target="_blank">Akismet</a></strong>: Uno de los plugin que no puede faltar en el WordPress es este, sirve para evitar el spam en tu sitio. Lo único que debes hacer es configurarlo en tu cuenta para activar tu protección anti spam.</p>
+<p style="text-align: justify;"><a href="https://wordpress.org/plugins/all-in-one-seo-pack/" target="_blank"><strong>All in one SEO pack</strong></a>: Es muy parecido al anterior, permite modificar el título y descripción de las páginas y posts del sitio, determinar el valor de los metas robots, anexar códigos de análisis y verificación y generar sitemap.</p>
+<p style="text-align: justify;"><strong><a href="https://wordpress.org/plugins/broken-link-checker/" target="_blank">Broken Link Checker</a>:</strong> Este plugin SEO es ideal para chequear los enlaces rotor del sitio con solo hacer un clic. Es un plugin práctico para modificar los enlaces rotos sin editar los post.</p>
+<p style="text-align: justify;"><strong><a href="https://wordpress.org/plugins/contact-form-7/" target="_blank">Contact Form 7</a>:</strong> Con este plugin puedes gestionar varios formularios de contacto y personalizarlos junto al contenido de los correos electrónicos de una forma muy simple.</p>
+<p style="text-align: justify;"><strong><a href="https://wordpress.org/plugins/w3-total-cache/" target="_blank">W3 Total Cache:</a></strong> Es ideal para cachear el contenido del sitio web y minimizar los tiempos de espera de los usuarios que acceden al sitio. Esto es para guardar información procesada últimamente en el computador.</p>
+<p style="text-align: justify;"><strong><a href="https://wordpress.org/plugins/wp-super-cache/" target="_blank">WP Super Cache:</a> </strong>Para crear copias de tu sitio web en formato HTML, acelerar el tiempo de carga y reducir el consumo de recursos como memoria este plugin es recomendable.</p>
+<p style="text-align: justify;">
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">8</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/plugins-seo-para-wordpress/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Plugins%20SEO%20para%20WordPress&url=https://posicionamiento-seo-mexico.com/blog-seo/plugins-seo-para-wordpress/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/plugins-seo-para-wordpress/">Plugins SEO para WordPress</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/plugins-seo-para-wordpress/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Cómo optimizar las notas de prensa?</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/como-optimizar-las-notas-de-prensa/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/como-optimizar-las-notas-de-prensa/#respond</comments>
+		<pubDate>Fri, 11 Mar 2016 17:09:25 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[notas de prensa]]></category>
+		<category><![CDATA[palabras claves]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=595</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Las notas de prensa son una herramienta para promocionar los productos y servicios de las empresas en los medios de comunicación. También las notas de prensa pueden convertirse en un buen recurso para posicionar la empresa dentro de los buscadores acorde una estrategia de comunicación y frecuencia de publicación. ¿Cómo mejorar la visualización en los buscadores?&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/como-optimizar-las-notas-de-prensa/">¿Cómo optimizar las notas de prensa?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">13</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/como-optimizar-las-notas-de-prensa/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFC%C3%B3mo%20optimizar%20las%20notas%20de%20prensa%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/como-optimizar-las-notas-de-prensa/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Las <strong>notas de prensa</strong> son una herramienta para promocionar los productos y servicios de las empresas en los medios de comunicación. También las notas de prensa pueden convertirse en un buen recurso para <a href="/servicios-seo/consultoria-seo/" target="_blank">posicionar</a> la empresa dentro de los buscadores acorde una estrategia de comunicación y frecuencia de publicación. ¿Cómo mejorar la visualización en los buscadores?</p>
+<ul style="text-align: justify;">
+<li><strong><a href="/blog-seo/como-elegir-las-palabras-claves/" target="_blank">Palabras claves</a></strong>: Colocar las palabras que los usuarios escriben para encontrar el tipo de negocio que manejas. Recuerda que puedes utilizar la herramienta de Google Adword</li>
+<li><strong>Uso de enlaces</strong>: La mejor manera de redirigir a posibles clientes potenciales a la página web del negocio.</li>
+<li><strong>Anexar material multimedia</strong>: Aumenta el número de clics en la búsqueda de noticias y puedes captar la atención de los usuarios, haciendo que duren más tiempo en el sitio para consumir toda la información, si esto sucede quiere decir que son contenidos de calidad que el usuario valora.</li>
+<li><strong>Colocar los botones de redes sociales</strong> para que las personas puedan compartir el contenido.</li>
+<li><strong>Un servidor con relevancia</strong>: Elegir una buena plataforma de distribución de noticias con tráfico de calidad, esto ayudará al posicionamiento.</li>
+</ul>
+<p style="text-align: justify;">Las notas de prensa deben tener un interés noticioso para captar la mayor atención de los usuarios y que los medios puedan posicionar el contenido con un <a href="http://www.socialetic.com/beneficios-de-utilizar-comunicados-de-prensa.html" target="_blank">mayor número de visitas</a>. Por ello es importante realizar contenidos de calidad para ganar la confianza de los usuarios que acceden a la nota de prensa y deciden contactar a la empresa para comprar o hacer uso de un servicio. Siempre es necesario destacar las ventajas de la empresa y comparar con la competencia. Debes tomar en cuenta la información, qué se dice y cómo se dice, también a nivel de <em>diseño gráfico</em> para que luzca atractivo al usuario y no luzca la información como una estrategia de Link building.</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">13</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/como-optimizar-las-notas-de-prensa/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFC%C3%B3mo%20optimizar%20las%20notas%20de%20prensa%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/como-optimizar-las-notas-de-prensa/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/como-optimizar-las-notas-de-prensa/">¿Cómo optimizar las notas de prensa?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/como-optimizar-las-notas-de-prensa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Cuál es la mejor plataforma ecommerce?</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/cual-es-la-mejor-plataforma-ecommerce/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/cual-es-la-mejor-plataforma-ecommerce/#respond</comments>
+		<pubDate>Wed, 09 Mar 2016 01:46:32 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[ecommerce]]></category>
+		<category><![CDATA[magento]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[prestashop]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[Shopify]]></category>
+		<category><![CDATA[tienda online]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=589</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Si tienes interés en crear una página web que se convierta en una tienda online funcional y tienes dudas sobre cuál plataforma utilizar te explicamos las siguientes plataformas: PrestaShop: Es uno de los más populares con un sistema de código abierto que se ha convertido en el favorito de muchos usuarios, por su fácil utilización,&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/cual-es-la-mejor-plataforma-ecommerce/">¿Cuál es la mejor plataforma ecommerce?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">13</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/cual-es-la-mejor-plataforma-ecommerce/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFCu%C3%A1l%20es%20la%20mejor%20plataforma%20ecommerce%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/cual-es-la-mejor-plataforma-ecommerce/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Si tienes interés en crear una página web que se convierta en una <a href="http://blog.kreativoz.mx/marketing-online/5-estrategias-para-atraer-clientes-a-una-tienda-online/" target="_blank">tienda online</a> funcional y tienes dudas sobre <em>cuál plataforma utilizar</em> te explicamos las siguientes plataformas:</p>
+<p style="text-align: justify;"><strong><a href="https://www.prestashop.com/es/" target="_blank">PrestaShop</a></strong>: Es uno de los más populares con un sistema de código abierto que se ha convertido en el favorito de muchos usuarios, por su fácil utilización, donde puedes personalizar y cambiar el aspecto. Los test de Google le dan un 98/100 lo que la convierte en una de las aplicaciones más rápidas.</p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">Ventajas</span>:</p>
+<ul style="text-align: justify;">
+<li>El panel de administrador es muy fácil</li>
+<li>Fácil instalación y utilización,</li>
+<li>Funciona con los servidores compartidos</li>
+<li>Ayuda al posicionamiento natural <a href="/paquetes-seo/paquete-ecommerce/" target="_blank">(SEO)</a></li>
+</ul>
+<p style="text-align: justify;"><span style="text-decoration: underline;">Desventajas:</span></p>
+<ul style="text-align: justify;">
+<li>Los módulos con mejores funcionalidades son de pago</li>
+<li>No es escalable</li>
+<li>La ficha de producto es muy sencilla, si quieres incluir algunos campos debes programarlo.</li>
+</ul>
+<p style="text-align: justify;"><strong><a href="https://es.shopify.com/" target="_blank">Shopify</a></strong>: Es una plataforma interesante y fácil de utilizar, aunque no es la más utilizada.</p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">Ventajas</span>:</p>
+<ul style="text-align: justify;">
+<li>Para desarrollar pequeños ecommerce es recomendable</li>
+<li>Software especializado en ecommerce</li>
+<li>Para internacionalizar el negocio es muy buena plataforma</li>
+<li>No necesitas comprar servidor porque es un software en la nube.</li>
+</ul>
+<p style="text-align: justify;"><span style="text-decoration: underline;">Desventajas:</span></p>
+<ul style="text-align: justify;">
+<li>No puedes descargar Shopify ni modificarlo</li>
+<li>Para cambiar el código debes pagar a Shopify</li>
+<li>No es una buena plataforma para hacer SEO</li>
+<li>Los servidores solo están en Estados Unidos</li>
+<li>No es escalable</li>
+<li>No es multilingue</li>
+</ul>
+<p style="text-align: justify;"><a href="https://magento.com/" target="_blank"><strong>Magento</strong></a>: Es otro sistema muy utilizado. Es recomendable utilizarlo para <em>grandes empresas y grandes proyectos</em>, ya que exige mucha programación sino tienes la experiencia puede resultar un problema.</p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">Ventajas:</span></p>
+<ul style="text-align: justify;">
+<li><a href="/blog-seo/magento-una-plataforma-de-ecommerce/" target="_blank">Ideal para múltiples tiendas</a></li>
+<li>Permite agregar múltiples formas de pago.</li>
+<li>Tiene gran cantidad de módulos en su modelo de negocio que quizás no necesites añadir ninguno más.</li>
+<li>Las plantillas son responsiva</li>
+<li>Permite realizar posicionamiento natural (SEO)</li>
+<li>Es una plataforma segura y confiable toda la información que se maneja dentro de la página es completamente privada.</li>
+</ul>
+<p style="text-align: justify;"><span style="text-decoration: underline;">Desventajas:</span></p>
+<ul style="text-align: justify;">
+<li>El panel de administración es complejo</li>
+<li>Magento es una herramienta complicada de aprender por eso no es recomendable utilizarla como “página de prueba de un negocio a ver qué tal sale todo”. Exige de profesionales en programación</li>
+<li>El costo es bastante alto</li>
+</ul>
+<p style="text-align: justify;">
+<p style="text-align: center;"><a href="/wp-content/uploads/2016/03/info_2_seo.png" rel="attachment wp-att-617"><img class="alignnone size-large wp-image-617" src="/wp-content/uploads/2016/03/info_2_seo-493x1024.png" alt="info_2_seo" width="493" height="1024" srcset="https://posicionamiento-seo-mexico.com/wp-content/uploads/2016/03/info_2_seo-768x1596.png 768w, https://posicionamiento-seo-mexico.com/wp-content/uploads/2016/03/info_2_seo-493x1024.png 493w, https://posicionamiento-seo-mexico.com/wp-content/uploads/2016/03/info_2_seo.png 800w" sizes="(max-width: 493px) 100vw, 493px" /></a></p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">13</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/cual-es-la-mejor-plataforma-ecommerce/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFCu%C3%A1l%20es%20la%20mejor%20plataforma%20ecommerce%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/cual-es-la-mejor-plataforma-ecommerce/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/cual-es-la-mejor-plataforma-ecommerce/">¿Cuál es la mejor plataforma ecommerce?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/cual-es-la-mejor-plataforma-ecommerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Optimizar la velocidad de carga de un sitio web</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/optimizar-la-velocidad-de-carga-de-un-sitio-web/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/optimizar-la-velocidad-de-carga-de-un-sitio-web/#respond</comments>
+		<pubDate>Thu, 03 Mar 2016 17:45:58 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[sitio web]]></category>
+		<category><![CDATA[velocidad]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=562</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Si dispones de un sitio web que resulta muy lento en cargar o navegar, puede significar un problema para tu posicionamiento, pues Google tiende a penalizar. A pesar de todo lo que hagas en el funcionamiento del diseño, estructura de contenido y palabras claves si tienes problemas en la velocidad de carga, los usuarios abandonarán&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/optimizar-la-velocidad-de-carga-de-un-sitio-web/">Optimizar la velocidad de carga de un sitio web</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">19</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/optimizar-la-velocidad-de-carga-de-un-sitio-web/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Optimizar%20la%20velocidad%20de%20carga%20de%20un%20sitio%20web&url=https://posicionamiento-seo-mexico.com/blog-seo/optimizar-la-velocidad-de-carga-de-un-sitio-web/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Si dispones de un sitio web que resulta muy lento en cargar o navegar, puede significar un problema para tu <em><a href="/paquetes-seo/paquete-profesional/" target="_blank">posicionamiento</a></em>, pues Google tiende a penalizar. A pesar de todo lo que hagas en el funcionamiento del diseño, estructura de contenido y <a href="/blog-seo/como-elegir-las-palabras-claves/" target="_blank">palabras claves</a> si tienes problemas en la velocidad de carga, los usuarios abandonarán la página sin haber hecho ninguna acción de compra y sin ganas de querer volver a navegar en el sitio.</p>
+<p style="text-align: justify;">Sabemos que la <em>optimización</em> es un aspecto complejo pero no imposible sino más bien necesario para encontrar resultados con éxito. ¿Cómo mejorar la velocidad de carga de la página web?</p>
+<ul>
+<li style="text-align: justify;"><strong>Imágenes optimizadas</strong>: Las imágenes debes exportarlas con herramientas de optimización para web como Photoshop por ejemplo, donde puedes elegir el mejor formato de archivo. Escoge el peso menos posible, pero sin restar calidad.</li>
+<li style="text-align: justify;"><strong>Comprimir los ficheros pequeños</strong>: La idea es ganar tiempo, se carguen ficheros únicos y no independientes que demoran la carga y hacen lenta la velocidad del sitio web. Puedes utilizar herramientas como framework de Javascript o CCS Sprite, en donde se combinan varios archivos en uno solo.</li>
+<li style="text-align: justify;"><strong>El caché</strong>: El almacenamiento de archivos puede ahorrar tiempo de carga para recibir muchas visitas al mismo tiempo en el sitio web. Puedes utilizar la herramienta <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">PageSpeed Insights</a> para medir el tiempo de carga de tu sitio web y en la opción “especificar caché del navegador” incluyes una parte del código en el archivo “.htaccess”, una vez hecho esto, señalas los intervalos de tiempo que deseas para el almacenamiento de archivos en caché.</li>
+<li style="text-align: justify;"><strong>Las redirecciones</strong>: Cuando un usuario busca un archivo y es redirigido a otro sitio. Esto puede hacer perder mucho tiempo y afectar la velocidad de carga debido a la redirección de un sitio web a otro. Google sugiere eliminar las redirecciones no necesarias y ver en el diseño web cómo puedes mejorar el rendimiento.</li>
+<li style="text-align: justify;"><strong>Contenido visible</strong>: Priorizar el contenido visible quiere decir poner límites al tamaño de los datos para mostrar contenido en la parte superior de la página web. Tienes dos opciones como estructurar la página, código HTML, para mostrar el contenido más importante con los datos necesarios del servidor o reducir la cantidad de datos.</li>
+<li style="text-align: justify;"><strong>Recursos</strong>: La herramienta PageSpeed Insights también te recomienda reducir recursos como los espacios, las sangrías, etc.</li>
+</ul>
+<p>El SEO es un trabajo complejo y si no cuentas con un buen diseño web para <a href="http://seo.dyegoramos.com/seo-y-el-tiempo-de-carga" target="_blank">mejorar la velocidad de carga</a> del sitio, entonces debes empezar a evaluar tus acciones.</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">19</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/optimizar-la-velocidad-de-carga-de-un-sitio-web/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Optimizar%20la%20velocidad%20de%20carga%20de%20un%20sitio%20web&url=https://posicionamiento-seo-mexico.com/blog-seo/optimizar-la-velocidad-de-carga-de-un-sitio-web/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/optimizar-la-velocidad-de-carga-de-un-sitio-web/">Optimizar la velocidad de carga de un sitio web</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/optimizar-la-velocidad-de-carga-de-un-sitio-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Cómo crear un landing page?</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/como-crear-un-landing-page/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/como-crear-un-landing-page/#respond</comments>
+		<pubDate>Thu, 03 Mar 2016 02:26:48 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[landing page]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=550</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Las landing page son páginas web o también denominadas páginas de aterrizaje, al hacer clic en un anuncio publicitario desde otro sitio podrás captar un posible usuario o consumidor de la marca o servicio que estás promocionando. Quizás te parezca complicado, pero lo cierto es que muy sencillo si sigues los siguientes pasos y tomas en cuenta las&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/como-crear-un-landing-page/">¿Cómo crear un landing page?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/como-crear-un-landing-page/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFC%C3%B3mo%20crear%20un%20landing%20page%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/como-crear-un-landing-page/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Las landing page son páginas web o también denominadas páginas de aterrizaje, al hacer clic en un anuncio publicitario desde otro sitio podrás captar un posible usuario o consumidor de la marca o servicio que estás promocionando.</p>
+<p style="text-align: justify;">Quizás te parezca complicado, pero lo cierto es que muy sencillo si sigues los siguientes pasos y tomas en cuenta las características de crear una<a href="http://blog.kreativoz.mx/marketing-online/crea-una-landing-page-optima/" target="_blank"> landing page</a>:</p>
+<p style="text-align: justify;">Instrucciones</p>
+<ol>
+<li style="text-align: justify;"><strong>Definir un objetivo</strong>. ¿Cuál es la razón para crear una landing page? ¿Qué quieres vender?</li>
+<li style="text-align: justify;">Una vez tengas el objetivo definido, debes <strong>explicar una oferta de valo</strong>r del producto o servicio con un lenguaje sencillo y atractivo que invite a las personas hacer clic en la landing page.</li>
+<li style="text-align: justify;"><strong>Publicar el medio pago y los contactos</strong>.</li>
+<li style="text-align: justify;"><strong>Crear un formulario</strong> de preguntas básicas, nada de excesos, puede que el usuario se canse y deje a un lado el interés. Lo ideal es solicitar datos básicos como su nombre, edad, país, correo electrónico e intereses.</li>
+<li style="text-align: justify;"><strong>Crear llamadas de acción</strong> para que las personas accedan con facilidad a la información sobre el producto o servicio o un botón de compra o más información.</li>
+<li style="text-align: justify;"><strong>Agregar elementos multimedia</strong>, como imágenes y videos, información atractiva que capte el interés de los usuarios.</li>
+<li style="text-align: justify;"><strong>Asocia las cuentas de redes sociales</strong> para que las personas interesadas compartan contenido, las principales cuentas como Facebook, Twitter e Instagram.</li>
+<li style="text-align: justify;">Colocar cualquier otra información de valor sobre la marca, testimonios positivos o reconocimientos que alcen la imagen positiva de la marca en la landing page.</li>
+<li style="text-align: justify;">Una vez definido los pasos anteriores, existen herramientas como: <a href="https://instapage.com/" target="_blank">Instapage</a>, donde tienes a tu disposición plantillas predeterminadas que fácilmente puedes integrar a tu página de WordPress. <a href="http://unbounce.com/" target="_blank">Unbounce</a>, <a href="http://www.leadpages.net/" target="_blank">LeadPages</a>, y <a href="http://themeforest.net/" target="_blank">Themeforest</a> son otras herramientas que puedes utilizar para crear una landing page, aunque la versión gratuita es limitada.</li>
+<li style="text-align: justify;">Puedes contactar al equipo de expertos de <a href="/servicios-seo/optimizacion-seo/" target="_blank">posicionamiento Seo México</a> y conseguir una rápida  y efectiva landing page.</li>
+</ol>
+<p>Si quieres ampliar tus conocimientos sobre landing page, puedes acceder al artículo &#8220;<a href="http://www.40defiebre.com/como-crear-landing-page-convierta/" target="_blank">Cómo crear una página web que convierta</a>&#8220;.</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/como-crear-un-landing-page/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFC%C3%B3mo%20crear%20un%20landing%20page%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/como-crear-un-landing-page/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/como-crear-un-landing-page/">¿Cómo crear un landing page?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/como-crear-un-landing-page/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Las palabras claves y el contenido SEO</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/como-elegir-las-palabras-claves/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/como-elegir-las-palabras-claves/#respond</comments>
+		<pubDate>Tue, 01 Mar 2016 20:37:01 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[competencia]]></category>
+		<category><![CDATA[contenido]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[palabras claves]]></category>
+		<category><![CDATA[palabras más buscadas]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[tendencias]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=556</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Las palabras claves son el requerimiento más importante al momento de aplicar una estrategia SEO, pues estas forman parte del contenido y de la comunicación a través de la web. Responden a la búsqueda de las personas y de ellas depende de que tu sitio web pueda ser encontrado. Existen herramientas que ayudan a identificar las palabras&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/como-elegir-las-palabras-claves/">Las palabras claves y el contenido SEO</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">15</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/como-elegir-las-palabras-claves/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Las%20palabras%20claves%20y%20el%20contenido%20SEO&url=https://posicionamiento-seo-mexico.com/blog-seo/como-elegir-las-palabras-claves/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Las palabras claves son el requerimiento más importante al momento de aplicar una <a href="/servicios-seo/consultoria-seo/" target="_blank">estrategia SEO</a>, pues estas forman parte del contenido y de la comunicación a través de la web. Responden a la búsqueda de las personas y de ellas depende de que tu sitio web pueda ser encontrado.</p>
+<p style="text-align: justify;">Existen<a href="/blog-seo/5-herramientas-utiles-para-hacer-seo/" target="_blank"> herramientas</a> que ayudan a identificar las palabras claves más adecuadas de acuerdo a los siguientes tres factores:</p>
+<ul style="text-align: justify;">
+<li><strong>La importancia</strong>: Las palabras claves envuelven el universo del contenido que maneja su negocio, el objetivo que persigue, los términos que utiliza la competencia y de qué manera buscan los usuarios en la web.</li>
+<li><strong>Las más buscadas</strong>: Hay palabras más predominantes que son las más buscadas que al usarlas atrae un volumen mayor de usuarios a tu sitio web.</li>
+<li><strong>Tendencias</strong>: Existen herramientas con las que puedes conocer el uso y desuso de determinadas palabras claves y eso puede ayudar a ver si tus contenidos son tendencia o no en los motores de búsqueda.</li>
+</ul>
+<p style="text-align: justify;">Recuerda que el proceso de las palabras claves es un trabajo orgánico y analítico, te recomendamos hacer las siguientes interrogantes:</p>
+<ul>
+<li style="text-align: justify;"><em>¿Estas palabras claves entran en los motores de búsqueda?</em> Pensando que las personas buscan con las palabras que colocamos, resulta que usan términos distintos. Así que asegúrate de utilizar las herramientas adecuadas para elegir las palabras claves y atraer un mayor volumen de usuarios al sitio web. Se dice que una campaña tiene alrededor de <a href="https://posicionamientoweb.pw/la-importancia-de-las-palabras-clave-en-el-posicionamiento-web" target="_blank">un 70% de éxito con la selección adecuada</a> de las palabras claves.</li>
+<li style="text-align: justify;"><em>¿Mucha competencia?</em> Existen sitios web similares al tuyo que se vale de las palabras claves más posicionadas y si es así, puede resultar un poco complicado posicionar tu sitio web a la altura de la competencia.</li>
+<li style="text-align: justify;"><em>¿Será suficiente la conversión de las palabras claves?</em> Si al usar las palabras claves mayor posicionadas resulta que el tráfico que se dirige a tu sitio web no consume el producto o servicio que vendes, puede exigir un poco más de análisis al momento de seleccionar las palabras claves ideales.</li>
+</ul>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">15</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/como-elegir-las-palabras-claves/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Las%20palabras%20claves%20y%20el%20contenido%20SEO&url=https://posicionamiento-seo-mexico.com/blog-seo/como-elegir-las-palabras-claves/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/como-elegir-las-palabras-claves/">Las palabras claves y el contenido SEO</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/como-elegir-las-palabras-claves/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magento, una plataforma de ecommerce</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/magento-una-plataforma-de-ecommerce/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/magento-una-plataforma-de-ecommerce/#respond</comments>
+		<pubDate>Fri, 26 Feb 2016 20:45:54 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[diseño grafico]]></category>
+		<category><![CDATA[diseño web]]></category>
+		<category><![CDATA[ecommerce]]></category>
+		<category><![CDATA[magento]]></category>
+		<category><![CDATA[tienda online]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=547</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Cada día crecen más tiendas online, los usuarios prefieren hacer sus compras por Internet y esto representa una gran ventaja para quienes desean desarrollar su negocio en el mundo del ecommerce. Actualmente existe una plataforma que no por suerte se ha convertido en la líder del e-commerce, Magento, una plataforma donde los servicios disponibles permiten&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/magento-una-plataforma-de-ecommerce/">Magento, una plataforma de ecommerce</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">18</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/magento-una-plataforma-de-ecommerce/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Magento%2C%20una%20plataforma%20de%20ecommerce&url=https://posicionamiento-seo-mexico.com/blog-seo/magento-una-plataforma-de-ecommerce/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Cada día crecen más tiendas online, los usuarios prefieren hacer sus compras por Internet y esto representa una gran ventaja para quienes desean desarrollar su negocio en el mundo del ecommerce. Actualmente existe una plataforma que no por suerte se ha convertido en la líder del e-commerce, <a href="https://magento.com/" target="_blank">Magento</a>, una plataforma donde los servicios disponibles permiten la <a href="/blog-seo/recomendaciones-para-aumentar-el-posicionamiento/" target="_blank">optimización</a> de tu tienda electrónica y el manejo acorde a su interés de la tienda.</p>
+<p style="text-align: justify;">Con Magento puedes crear y diseña sitios acorde a tus necesidades y productos a ofrecer a los usuarios que hagan de esta visita una experiencia amena.  Magento es la plataforma de mayor importancia en el mundo, se considera una plataforma de solución integral para las necesidades de los empresarios.</p>
+<p style="text-align: justify;">Las características más importantes de Magento:</p>
+<ul style="text-align: justify;">
+<li>Gestión de pedidos</li>
+<li>Múltiples tiendas online</li>
+<li>Las normas sobre tarifas flexibles</li>
+<li>Reglas de envío</li>
+<li>Configuraciones de pago</li>
+<li>Configuraciones de producto</li>
+<li>Instalaciones de promoción</li>
+<li>SEO</li>
+<li>Cuentas de gestión del cliente</li>
+<li>Navegación en capas</li>
+<li>Comercio Móvil</li>
+<li>Idiomas múltiples</li>
+<li>Apoyo Internacional</li>
+<li>Nivel de Acceso Código</li>
+<li>Extensiones y temas</li>
+<li>Web Services API</li>
+</ul>
+<p style="text-align: justify;">Por qué usar Magento:</p>
+<ul style="text-align: justify;">
+<li>Es<a href="http://www.comunic-art.com/magento/tiendas-online-magento.html" target="_blank"> la mejor plataforma</a> de e-commerce del mercado, sus características técnicas permiten la fácil integración de todos los procesos de la empresa.</li>
+<li>Por ser Open Source puedes adaptar tu <a href="http://blog.kreativoz.mx/marketing-online/el-e-commerce-el-futuro-empresarial/" target="_blank">tienda online</a> de acuerdo a tus necesidades.</li>
+<li>Numerosas posibilidades de configuración y amplias extensiones que permiten adaptar las tiendas onlines creadas con Magento a las últimas tendencias para mejorar los beneficios de la empresa.</li>
+</ul>
+<p style="text-align: justify;">Magento es la plataforma ideal para crear tiendas online que puedan ser conocidas y visitadas a nivel internacional ya que puedes adaptarla a diferentes idiomas y responder a las necesidades inmediatas de cada país.</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">18</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/magento-una-plataforma-de-ecommerce/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Magento%2C%20una%20plataforma%20de%20ecommerce&url=https://posicionamiento-seo-mexico.com/blog-seo/magento-una-plataforma-de-ecommerce/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/magento-una-plataforma-de-ecommerce/">Magento, una plataforma de ecommerce</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/magento-una-plataforma-de-ecommerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>El PageRank ¿Por qué es importante?</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/el-pagerank-y-su-importancia/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/el-pagerank-y-su-importancia/#respond</comments>
+		<pubDate>Wed, 24 Feb 2016 05:40:55 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[PageRank]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[ranking]]></category>
+		<category><![CDATA[SEO]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=542</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Toda persona que se dedica a trabajar el SEO suele perder la cabeza buscando obtener un resultado alto del PageRank en Google, se dice que muy poco se está tomando en cuenta, pero lo ideal es saber de qué trata, olvidarse de los mitos y anexarlo a los datos importantes al momento de hacer SEO.&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/el-pagerank-y-su-importancia/">El PageRank ¿Por qué es importante?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">17</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/el-pagerank-y-su-importancia/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=El%20PageRank%20%C2%BFPor%20qu%C3%A9%20es%20importante%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/el-pagerank-y-su-importancia/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Toda persona que se dedica a trabajar el SEO suele perder la cabeza buscando obtener un resultado alto del <a href="http://checkpagerank.net/" target="_blank">PageRank</a> en Google, se dice que muy poco se está tomando en cuenta, pero lo ideal es saber de qué trata, <a href="/blog-seo/6-mitos-del-seo/" target="_blank">olvidarse de los mitos</a> y anexarlo a los datos importantes al momento de hacer SEO. El PageRank es un <em>sistema de ranking</em> perteneciente a Google para <strong>medir de forma numérica del 0 al 10</strong> la importancia de una página web de acuerdo a la calidad de sus enlaces.</p>
+<p style="text-align: justify;">El PageRank de Google es un factor importante que arroja la posición de un determinado sitio web en el buscador, <strong>mientras más alto sea el número mayores posibilidades de atraer nuevos usuarios</strong> al sitio.</p>
+<p style="text-align: justify;">Ahora, ¿cómo interpretar esta información? Se dice que cada enlace hacia tu sitio web es tomado en cuenta como un voto de confianza, cuantas más visitas mayor PageRank, es decir, un <a href="/servicios-seo/mantenimiento-seo/" target="_blank">mejor posicionamiento</a>.</p>
+<p style="text-align: justify;">Sin embargo, recordemos que este no es el único factor importante para Google, también existen algunos otros factores por ejemplo:</p>
+<ul style="text-align: justify;">
+<li>El PageRank del dominio que hizo el enlace.</li>
+<li>La relación con el tema o prominencia, si la página maneja contenidos que tienen que ver con tu página web o no.</li>
+<li>Cómo se hizo el enlace, de qué manera te citaron en el texto.</li>
+<li>El lugar del enlace, sea dentro del texto o como pie de página.</li>
+</ul>
+<p style="text-align: justify;">El PageRank te sirve para <em>diseñar estrategias de SEO Off Page</em> como los backlinks y enlaces internos en el sitio web. Recuerda que desde los enlaces que recibas tanto interna y externamente afectará directamente el PageRank.</p>
+<p style="text-align: justify;">Aunque se dice que Google ya no toma en cuenta el PageRank como un factor determinante para el posicionamiento, no es recomendable olvidarse de <a href="http://wwwhatsnew.com/2011/06/29/7-nuevas-formas-para-mejorar-el-pagerank-en-google/" target="_blank">la autoridad de la página</a> por completo, porque al final pudiese ser un factor determinante en comparación con otro sitio web.</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">17</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/el-pagerank-y-su-importancia/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=El%20PageRank%20%C2%BFPor%20qu%C3%A9%20es%20importante%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/el-pagerank-y-su-importancia/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/el-pagerank-y-su-importancia/">El PageRank ¿Por qué es importante?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/el-pagerank-y-su-importancia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>6 mitos del SEO</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/6-mitos-del-seo/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/6-mitos-del-seo/#respond</comments>
+		<pubDate>Thu, 18 Feb 2016 20:42:04 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[analisis SEO]]></category>
+		<category><![CDATA[mito]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=521</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Si deseas incursionar en el mundo del SEO Para mejorar el posicionamiento de tu sitio web, lo ideal es que empieces a alejarte de todo tipo de mitos, como los siguientes: El SEO es un trabajo de un momento: ¡Olvídalo! El SEO es un trabajo continuo y constante, no se trata de hacerlo una vez…&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/6-mitos-del-seo/">6 mitos del SEO</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">8</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/6-mitos-del-seo/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=6%20mitos%20del%20SEO&url=https://posicionamiento-seo-mexico.com/blog-seo/6-mitos-del-seo/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>Si deseas incursionar en el mundo del <a href="/servicios-seo/consultoria-seo/" target="_blank">SEO</a> Para mejorar el posicionamiento de tu sitio web, lo ideal es que empieces a alejarte de todo tipo de mitos, como los siguientes:</p>
+<ul>
+<li><strong>El SEO es un trabajo de un momento</strong>: ¡Olvídalo! El SEO es un trabajo continuo y constante, no se trata de hacerlo una vez… y olvidado. El mundo del Internet es cambiante y cada día nuevos competidores se unen a los motores de búsqueda para captar usuarios, así que el SEO debe hacerse durante la disponibilidad del sitio web.</li>
+<li><strong>Menos contenido, más links</strong>: Sin duda los links son una herramienta muy valiosa, pero obtener links requiere de ingenio y creatividad. ¡A escribir! Lo ideal es generar contenido atractivo que pueda ser utilizado por otros usuarios y aporten links.</li>
+<li><strong>El SEO no tiene nada que ver con las redes sociales</strong>: ¡Claro que tienen relación! Todo lo que se haga en redes sociales en beneficio del sitio web <a href="http://www.marketingdirecto.com/punto-de-vista/la-columna/las-redes-sociales-no-es-un-factor-seo-es-el-factor-seo/" target="_blank">servirá de apoyo al posicionamiento</a>, si está bien hecho.</li>
+<li><strong>El SEO se trata del ranking</strong>: No necesariamente, aunque en un momento se pensaba que el posicionar en los primeros lugares era lo máximo, esto no determina un alto número de clics.</li>
+<li><strong>Un número ideal de palabras claves para el sitio web</strong>: No hay un número ideal de palabras claves para utilizar en las páginas web. No importa el número de palabras claves, mientras las que tenga sean bien utilizadas e integradas al texto. Lo importante es complacer al usuario con un buen contenido.</li>
+<li><strong>El SEO no se trata de usabilidad</strong>: Si el objetivo es <a href="/blog-seo/recomendaciones-para-aumentar-el-posicionamiento/" target="_blank">posicionar</a> y optimizar el contenido, quiere decir que la información debe ser útil. No consiste en hacer un trabajo automático sino que todo tenga una justificación y es que la información sea de interés para el usuario.</li>
+</ul>
+<p>&nbsp;</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">8</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/6-mitos-del-seo/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=6%20mitos%20del%20SEO&url=https://posicionamiento-seo-mexico.com/blog-seo/6-mitos-del-seo/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/6-mitos-del-seo/">6 mitos del SEO</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/6-mitos-del-seo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Qué son los Rich Snippets?</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/que-son-los-rich-snippets/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/que-son-los-rich-snippets/#respond</comments>
+		<pubDate>Tue, 16 Feb 2016 20:26:45 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[buscador web]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[rich snippets]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[sitio web]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=518</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Cuando las personas buscan una información determinada en algún buscador sea Google, Yahoo o Bing aparecen tantos resultados que se desconoce cuál es la mejor información que se adapta a las necesidades. Por ello existen los Rich Snippets, fragmentos enriquecidos, que sirven para resaltar los contenidos que arrojan los resultados de búsqueda. La idea de&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/que-son-los-rich-snippets/">¿Qué son los Rich Snippets?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/que-son-los-rich-snippets/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFQu%C3%A9%20son%20los%20Rich%20Snippets%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/que-son-los-rich-snippets/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Cuando las personas buscan una información determinada en algún buscador sea Google, Yahoo o Bing aparecen tantos resultados que se desconoce cuál es la mejor información que se adapta a las necesidades. Por ello existen los <strong>Rich Snippets</strong>, fragmentos enriquecidos, que sirven para resaltar los contenidos que arrojan los resultados de búsqueda.</p>
+<p style="text-align: justify;">La idea de los Rich Snippetss es facilitar los resultados de los <a href="/blog-seo/cual-sera-el-mejor-buscador-web/" target="_blank">buscadores</a>, con información más avanzada que puede estar apoyada con palabras o imágenes. En 2009, Google a través de microformatos incorporó un marcado de texto que permitió ver el resultado de búsqueda con ciertas informaciones avanzadas. Sin embargo, Google y los mencionados buscadores optaron por unir las reglas de uso en un solo espacio: <a href="http://schema.org/docs/schemas.html" target="_blank">shema.org</a>, una página que define el marcado reglado, es decir el correcto uso de los Rich Snippets que pueden ser implementados por los desarrolladores de un determinado buscador.</p>
+<p style="text-align: justify;"><em>¿Te interesa saber cómo conseguir Rich Snippets en Google?</em></p>
+<p style="text-align: justify;">Debes anexar en el código del sitio web los nuevos atributos que ofrece Google. Los tipos de Rich Snippets que se usan son:</p>
+<ul style="list-style-type: circle;">
+<li style="text-align: justify;">Microdatos</li>
+<li style="text-align: justify;">Microformatos</li>
+<li style="text-align: justify;">RDFa</li>
+</ul>
+<p style="text-align: justify;">Los Rich Snippets tienen <a href="http://www.zoiseo.es/31/08/2011/11-rich-snippets-mejorar-seo-visitas/" target="_blank">diferentes aplicaciones</a> que son un factor clave para las estrategias de posicionamiento de tu sitio web, así que mide la factibilidad y ¡empieza a usarlos!</p>
+<p style="text-align: justify;"><em>¿Por qué los Rich Snippets son importantes?</em></p>
+<ul style="text-align: justify;">
+<li><strong>Mayor visibilidad</strong>: Puedes mostrar más contenidos y datos en los resultados de búsqueda, porque ocupas más pixeles en comparación a un anuncio sin Rich Snippets.</li>
+<li><strong>Crecen los clics</strong>: Los usuarios se sienten más atraídos por los anuncios con Rich Snippets y hacen que los clics aumenten.</li>
+<li><strong>Baja el rebote</strong>: Al ver información previa sobre el sitio web, el usuario accede a la página con conocimiento de lo que verá y existe una menor probabilidad de que el usuario deje la página.</li>
+<li><strong>Recomendación de los buscadores</strong>: Google, Yahoo y Bing recomiendan usar Rich Snippets para tener una mayor visualización.</li>
+</ul>
+<p style="text-align: justify;">
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/que-son-los-rich-snippets/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFQu%C3%A9%20son%20los%20Rich%20Snippets%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/que-son-los-rich-snippets/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/que-son-los-rich-snippets/">¿Qué son los Rich Snippets?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/que-son-los-rich-snippets/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MetricSpot, herramienta de análisis SEO</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/metricspot-herramienta-de-analisis-seo/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/metricspot-herramienta-de-analisis-seo/#respond</comments>
+		<pubDate>Fri, 12 Feb 2016 16:47:50 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[analisis SEO]]></category>
+		<category><![CDATA[Metricspot]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=514</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Para hacer SEO y posicionar contenido en la web existen múltiples herramientas, aunque cada una ofrece opciones extras que las hacen únicas y especiales para algunas categorías. MetricSpot  es una herramienta de análisis SEO principalmente dedicada a páginas web y redes sociales como Facebook y en algunos casos, Twitter. MetricSpot es una herramienta sencilla que funciona&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/metricspot-herramienta-de-analisis-seo/">MetricSpot, herramienta de análisis SEO</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">12</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/metricspot-herramienta-de-analisis-seo/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=MetricSpot%2C%20herramienta%20de%20an%C3%A1lisis%20SEO&url=https://posicionamiento-seo-mexico.com/blog-seo/metricspot-herramienta-de-analisis-seo/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Para hacer SEO y posicionar contenido en la web existen múltiples herramientas, aunque cada una ofrece opciones extras que las hacen únicas y especiales para algunas categorías. <a href="https://metricspot.com/es/" target="_blank">MetricSpot</a>  es una herramienta de análisis SEO principalmente dedicada a páginas web y redes sociales como <strong>Facebook</strong> y en algunos casos, <strong>Twitter</strong>.</p>
+<p style="text-align: justify;">MetricSpot es una herramienta sencilla que funciona para analizar el sitio web y disponer de vías para obtener mejores resultados, en el caso de las redes sociales la idea es contactar con personas con mayor influencia que permitan un mayor rendimiento de las cuentas y del SEO en las páginas web.</p>
+<p style="text-align: justify;">Si no eres un <a href="/blog-seo/como-te-ayuda-un-especialista-en-seo/" target="_blank">especialista en SEO</a>, MetricSpot es la herramienta ideal puedes obtener muchos resultados de medición que te permitirán saber que debes optimizar y mejorar tu ubicación dentro del <em>ranking de Google</em>. El análisis se divide en las siguientes categorías: autoridad SEO, SEO básico, contenido, usabilidad, aspectos técnicos y redes sociales.</p>
+<p style="text-align: justify;">Dentro del <a href="/paquetes-seo/paquete-basico/" target="_blank">análisis básico de SEO,</a> tendrás resultados sobre la dirección, el título, la descripción del sitio, las palabras claves, el sitemap, <a href="/blog-seo/el-archivo-robots-txt-y-sus-ventajas/" target="_blank">el archivo robots.txt</a> y los url.  Mientras que en contenido se especifican la cantidad de enlaces tanto internos y externos, si hay enlaces rotos, imágenes, entre otros aspectos relacionados al contenido.</p>
+<p style="text-align: justify;">También puedes conocer resultados del análisis sobre la usabilidad del sitio web, aspectos técnicos y en relación al marketing en redes sociales que puedes medir la influencia del sitio web en las redes sociales.</p>
+<p><iframe width="1200" height="675" src="https://www.youtube.com/embed/e9SQHjvYOVw?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">12</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/metricspot-herramienta-de-analisis-seo/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=MetricSpot%2C%20herramienta%20de%20an%C3%A1lisis%20SEO&url=https://posicionamiento-seo-mexico.com/blog-seo/metricspot-herramienta-de-analisis-seo/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/metricspot-herramienta-de-analisis-seo/">MetricSpot, herramienta de análisis SEO</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/metricspot-herramienta-de-analisis-seo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web CEO mejora el posicionamiento</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/con-web-ceo-mejoras-el-posicionamiento/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/con-web-ceo-mejoras-el-posicionamiento/#respond</comments>
+		<pubDate>Tue, 09 Feb 2016 20:42:01 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[sitio web]]></category>
+		<category><![CDATA[Web CEO]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=507</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Web CEO es una de las principales herramientas de los especialistas SEO para medir el posicionamiento de las palabras claves en Google. Conseguir la optimización en la búsqueda de un determinado sitio en la web, requiere de un arduo trabajo y conocer muy bien las herramientas idóneas para conseguir lo que se desea. Web CEO permite&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/con-web-ceo-mejoras-el-posicionamiento/">Web CEO mejora el posicionamiento</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/con-web-ceo-mejoras-el-posicionamiento/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Web%20CEO%20mejora%20el%20posicionamiento&url=https://posicionamiento-seo-mexico.com/blog-seo/con-web-ceo-mejoras-el-posicionamiento/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;"><a href="https://www.webceo.com/?id=12607" target="_blank">Web CEO</a> es una de las principales herramientas de los <a href="/blog-seo/como-te-ayuda-un-especialista-en-seo/" target="_blank">especialistas SEO</a> para medir el posicionamiento de las palabras claves en <strong>Google. </strong>Conseguir la optimización en la búsqueda de un determinado sitio en la web, requiere de un arduo trabajo y conocer muy bien las herramientas idóneas para conseguir lo que se desea. Web CEO permite observar qué posición se ubica un sitio web en Google a través de gráficos, así plantear estrategias SEO y conseguir un sitio de calidad.</p>
+<p style="text-align: justify;">¿Por qué utilizar Web CEO? Esta herramienta ofrece sugerencias de palabras claves acordes al sitio web, el manejo que hace la competencia de sus palabras claves y <a href="/servicios-seo/optimizacion-seo/" target="_blank">optimización</a>, además puedes hacer uso de otras opciones que dispone Web CEO como rankings.</p>
+<p style="text-align: justify;">¿<a href="http://www.goodworkfromhome.com/webceo.html" target="_blank">Qué puedes hacer con Web CEO</a>? Medir el <em>ranking</em>. Es una de las tareas más conocidas dentro de esta herramienta Web CEO en la que básicamente podrás ver cuál posición en el ranking ocupa tu sitio web.</p>
+<p style="text-align: justify;">Medir la popularidad con <em>Link Popularity analysis</em>: Puedes medir el índice de popularidad del sitio web, no es más que las páginas hacen enlace. No se trata de la cantidad de enlaces que se hagan a tu página sino de la calidad del sitio que lo hace. Mientras mayor sean los enlaces y la calidad del sitio, mejor resultará la popularidad y el posicionamiento.</p>
+<p style="text-align: justify;">Si quieres hacer una o varias campañas PPC (Pay Per Clic) puedes gestionarlo a través de Web CEO con diferentes proveedores y compararlas luego para mejorar el rendimiento.</p>
+<p style="text-align: justify;">Web CEO es una herramienta completa y muy utilizada por los especialistas CEO, ya que el mayor atractivo de esta herramienta es la medición de palabras claves que sin ellas ningún trabajo SEO sería posible, y si todo lo puedes hacer y medir con Web CEO, qué bueno.</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">11</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/con-web-ceo-mejoras-el-posicionamiento/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=Web%20CEO%20mejora%20el%20posicionamiento&url=https://posicionamiento-seo-mexico.com/blog-seo/con-web-ceo-mejoras-el-posicionamiento/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/con-web-ceo-mejoras-el-posicionamiento/">Web CEO mejora el posicionamiento</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/con-web-ceo-mejoras-el-posicionamiento/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Qué es Google Analytics?</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-analytics/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-analytics/#respond</comments>
+		<pubDate>Thu, 04 Feb 2016 22:30:42 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[Google Analytics]]></category>
+		<category><![CDATA[optimización]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=476</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Google Analytics es un servicio de análisis sin ningún costo que funciona para analizar cualquier sitio web con herramientas de estadísticas, de acuerdo a lo que necesiten los usuarios. Esta herramienta es la que más utilizan los responsables en hacer marketing para optimizar el contenido de la web. Google Analytics por ser un servicio de&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/que-es-google-analytics/">¿Qué es Google Analytics?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">8</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-analytics/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFQu%C3%A9%20es%20Google%20Analytics%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-analytics/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;"><strong>Google Analytics</strong> es un servicio de análisis sin ningún costo que funciona para <em>analizar cualquier sitio web</em> con herramientas de estadísticas, de acuerdo a lo que necesiten los usuarios. Esta herramienta es la que más utilizan los responsables en hacer marketing para <a href="/servicios-seo/optimizacion-seo/" target="_blank">optimizar</a> el contenido de la web.</p>
+<p style="text-align: justify;">Google Analytics por ser un servicio de Google, es el más utilizado. Entre los aspectos que puedes evaluar están: los números de visitas, el tiempo que dura el usuario navegando en el sitio, los datos de cada usuario, de dónde viene, edad, idioma, qué hacen los usuarios dentro de la web, qué buscan. Analizar el tiempo de carga de la página web, analizar las redes sociales… Google Analytics arroja informes con cada una de estos ítems explicados con profundidad y gráficos que ayuden a un mejor entendimiento del <a href="/blog-seo/recomendaciones-para-aumentar-el-posicionamiento/" target="_blank">posicionamiento</a> de la página.</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2016/01/Google_analytics_image.jpg" rel="attachment wp-att-477"><img class="alignnone size-full wp-image-477" src="/wp-content/uploads/2016/01/Google_analytics_image.jpg" alt="Google_analytics_image" width="870" height="350" srcset="https://posicionamiento-seo-mexico.com/wp-content/uploads/2016/01/Google_analytics_image-300x121.jpg 300w, https://posicionamiento-seo-mexico.com/wp-content/uploads/2016/01/Google_analytics_image-768x309.jpg 768w, https://posicionamiento-seo-mexico.com/wp-content/uploads/2016/01/Google_analytics_image.jpg 870w" sizes="(max-width: 870px) 100vw, 870px" /></a></p>
+<p style="text-align: justify;"><strong>Ventajas de usar Google Analytics</strong></p>
+<ul style="text-align: justify;">
+<li>Todo tipo de persona puede utilizar la herramienta, no necesita ser un experto para entenderla. Es sencilla de comprender.</li>
+<li>Informes y análisis en tiempo real: Google Analytics tiene informes de todo tipo que se activan de forma predeterminada en tiempo real, algunos son personalizados y puede activarse una opción de envío por correo electrónico.</li>
+<li>Evaluación de redes sociales: Todas las campañas que se realicen a través de las redes sociales pueden ser monitoreadas a través de esta herramienta para aumentar el número de visitas.</li>
+<li>Varios usuarios pueden manejar varios sitios: Otros usuarios pueden <a href="http://www.analitica-web.com/06/2010/google-analytics-para-principiantes-2-desventajas/" target="_blank">acceder a los datos</a> de Google Analytics y gestionar el contenido del sitio web, o varios usuarios manejar los diferentes sitios web desde una misma cuenta.</li>
+</ul>
+<p style="text-align: justify;">
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">8</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-analytics/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFQu%C3%A9%20es%20Google%20Analytics%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-analytics/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/que-es-google-analytics/">¿Qué es Google Analytics?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/que-es-google-analytics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Cuál será el mejor buscador web?</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/cual-sera-el-mejor-buscador-web/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/cual-sera-el-mejor-buscador-web/#respond</comments>
+		<pubDate>Tue, 02 Feb 2016 20:20:17 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[ask]]></category>
+		<category><![CDATA[bing]]></category>
+		<category><![CDATA[buscador web]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[yahoo]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=472</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Cuando necesitas saber sobre un tema en específico, investigar una noticia o simplemente averiguar cómo se hace una receta, automáticamente acudes a un buscador web en Internet que con cierta velocidad y exactitud te brinda la respuesta que deseas, y lo mejor es que no debes fajarte haciendo esta mínima investigación. En Internet tienes varias opciones&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/cual-sera-el-mejor-buscador-web/">¿Cuál será el mejor buscador web?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">13</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/cual-sera-el-mejor-buscador-web/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFCu%C3%A1l%20ser%C3%A1%20el%20mejor%20buscador%20web%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/cual-sera-el-mejor-buscador-web/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Cuando necesitas saber sobre un tema en específico, investigar una noticia o simplemente averiguar cómo se hace una receta, automáticamente acudes a un <strong>buscador web</strong> en Internet que con cierta velocidad y exactitud te brinda la respuesta que deseas, y lo mejor es que no debes fajarte haciendo esta mínima investigación.</p>
+<p style="text-align: justify;">En Internet tienes varias opciones de buscadores, todos conocen al máximo, el principal, Google, pero existen otros que también te sirven como esta herramienta, siempre y cuando tengas claro <em>cuál es el objetivo</em>. Los <a href="http://www.20minutos.es/noticia/1096921/0/buscadores/internet/google/" target="_blank">buscadores más populares</a> de Internet son:</p>
+<ul style="text-align: justify;">
+<li><strong>Google</strong>: Es el buscador más completo. Con solo escribir una pregunta, frase o tema en específico arroja miles de resultados. Google es el buscador más utilizado en el mundo, desde 1997 esta empresa continúa trabajando para los usuarios, ampliando sus servidores que cumplan con la necesidad de ofrecer un mejor servicio de búsqueda y responda a los requerimientos de los internautas para puedan compartir libremente ideas y opiniones. Claramente para posicionar entre los primeros lugares de los resultados de Google, se necesita un buen trabajo <a href="/blog-seo/como-te-ayuda-un-especialista-en-seo/" target="_blank">SEO</a>.</li>
+<li><strong>Bing</strong>: Es el buscador oficial de Microsoft, antes se conocía como Live Search. Su búsqueda está basada en un sistema de Powerset, este buscador ayuda a encontrar lo que deseas de forma rápida y sencilla, aunque trabaja con mayor efectividad para España.</li>
+<li><strong>Yahoo</strong>: Este es el competidor de Google, pues anteriormente Yahoo lideraba las búsquedas en la web, donde además de obtener contenidos podías utilizar servicios como el directorio, las noticias y el email. Ofrece resultados óptimos acordes a tus intereses de búsqueda.</li>
+<li><strong>Ask</strong>: Es otro buscador que muy poco se utiliza y funciona prácticamente escribiendo preguntas, sus resultados van de acuerdo a las palabras claves anotadas y que mejor se adapte a la búsqueda.</li>
+</ul>
+<p style="text-align: justify;">Si aún tienes dudas te dejamos esta infografía de los tres principales motores de búsqueda en Internet, así te darás una idea de si estás necesitando un <a href="/servicios-seo/mantenimiento-seo/" target="_blank">mantenimiento SEO</a> para tu sitio web:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2016/01/La-guerra-de-los-buscadores.png" rel="attachment wp-att-473"><img class="alignnone size-full wp-image-473" src="/wp-content/uploads/2016/01/La-guerra-de-los-buscadores.png" alt="La guerra de los buscadores" width="960" height="2880" srcset="https://posicionamiento-seo-mexico.com/wp-content/uploads/2016/01/La-guerra-de-los-buscadores-100x300.png 100w, https://posicionamiento-seo-mexico.com/wp-content/uploads/2016/01/La-guerra-de-los-buscadores-768x2304.png 768w, https://posicionamiento-seo-mexico.com/wp-content/uploads/2016/01/La-guerra-de-los-buscadores.png 960w" sizes="(max-width: 960px) 100vw, 960px" /></a></p>
+<p style="text-align: justify;">
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">13</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/cual-sera-el-mejor-buscador-web/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=%C2%BFCu%C3%A1l%20ser%C3%A1%20el%20mejor%20buscador%20web%3F&url=https://posicionamiento-seo-mexico.com/blog-seo/cual-sera-el-mejor-buscador-web/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/cual-sera-el-mejor-buscador-web/">¿Cuál será el mejor buscador web?</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/cual-sera-el-mejor-buscador-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>El archivo sitemap xml y sus ventajas</title>
+		<link>https://posicionamiento-seo-mexico.com/blog-seo/el-archivo-sitemap-xml-y-sus-ventajas/</link>
+		<comments>https://posicionamiento-seo-mexico.com/blog-seo/el-archivo-sitemap-xml-y-sus-ventajas/#respond</comments>
+		<pubDate>Thu, 28 Jan 2016 20:57:03 +0000</pubDate>
+		<dc:creator><![CDATA[Karem Pazo]]></dc:creator>
+				<category><![CDATA[Blog de Posicionamiento SEO México]]></category>
+		<category><![CDATA[posicionamiento]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[sitemap xml]]></category>
+
+		<guid isPermaLink="false">https://posicionamiento-seo-mexico.com/?p=448</guid>
+		<description><![CDATA[<p>Posicionamiento SEO México</p>
+<p>Cada vez más conseguir el posicionamiento de los contenidos se hace más necesario en los buscadores, una exigencia que requiere de tiempo y trabajo para optimizar el sitio web y utilizar enlaces relevantes. Las arañas ayudan en la realización de este procedimiento. En primer lugar debemos asegurarnos que todas las páginas del sitio estén debidamente&#8230;</p>
+<p>La entrada <a rel="nofollow" href="/blog-seo/el-archivo-sitemap-xml-y-sus-ventajas/">El archivo sitemap xml y sus ventajas</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Posicionamiento SEO México</p>
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">15</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/el-archivo-sitemap-xml-y-sus-ventajas/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=El%20archivo%20sitemap%20xml%20y%20sus%20ventajas&url=https://posicionamiento-seo-mexico.com/blog-seo/el-archivo-sitemap-xml-y-sus-ventajas/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p style="text-align: justify;">Cada vez más conseguir el posicionamiento de los contenidos se hace más necesario en los buscadores, una exigencia que requiere de tiempo y trabajo para <a href="/servicios-seo/optimizacion-seo/" target="_blank">optimizar</a> el sitio web y utilizar enlaces relevantes. Las <a href="/blog-seo/el-archivo-robots-txt-y-sus-ventajas/" target="_blank">arañas</a> ayudan en la realización de este procedimiento.</p>
+<p style="text-align: justify;">En primer lugar debemos asegurarnos que todas las páginas del sitio estén debidamente indexadas y puedan ubicarse dentro de los motores de búsqueda. En este punto entra el sitemap xml, un archivo de texto que brinda una lista de las páginas o url que existen en un sitio web para ayudar a los buscadores a identificarlas y reconocerlas.</p>
+<p style="text-align: justify;">Un archivo<a href="http://tuconsultoraseo.com/blog/13-seo/165-como-crear-un-mapa-del-sitio" target="_blank"> sitemap xml</a> expresa la importancia dada a ciertas páginas que componen el sitio web, incluyendo su contenido, cada actualización, la última fecha de esta y la importancia que tiene cada página dentro del sitio web.</p>
+<p style="text-align: justify;">¿Qué ventajas tiene usar un sitemap.xml? <a href="https://www.youtube.com/watch?v=hi5DGOu1uA0" target="_blank">Matt Cutts</a>, el experto en SEO de Google lo explica muy bien. A través de este archivo puedes mostrar a Google todas las páginas que manejas dentro de un sitio web. Usarlo no es estrictamente necesario, si cuentas con un sitio web bien consolidado y con buen manejo de las herramientas SEO, probablemente no sea necesario un sitemap.</p>
+<p style="text-align: justify;">Los sitemap además de ayudar a ubicar las páginas dentro de los sitios web, también ayudan a ubicar videos, imágenes y noticias.</p>
+<ul style="text-align: justify;">
+<li><strong>Video</strong>: Mayor probabilidad tendrás de que tus videos obtengan un mejor posicionamiento si incluyes un sitemap. Puedes incluir un URL de la ubicación del video y por supuesto, agregar el título y la descripción.</li>
+<li><strong>Imágenes</strong>: De igual manera se trabajan las imágenes si incluyes un sitemap, podrás mejorar la indexación.</li>
+<li><strong>Noticias</strong>: Podrás controlar el contenido que se manda a Google Noticias.</li>
+</ul>
+<p style="text-align: justify;">Si te interesa generar un sitemap.xml, puedes utilizar los siguientes generadores:</p>
+<ul style="text-align: justify;">
+<li><strong>Xml Sitemaps</strong>: Con solo colocar tu dominio automáticamente comienza el rastreo de todas las páginas. Ahora si el sitio web es amplio, te recomendamos la versión de pago que no tiene límites y puedes obtener el sitemap en video, imágenes y noticias.</li>
+<li><strong>Google Xml sitemaps</strong>: Altamente recomendado para WordPress. Cada publicación nueva actualiza automáticamente el sitemap.</li>
+</ul>
+<p style="text-align: justify;">
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts mashsbcount">15</div><span class="mashsb-sharetext">ME GUSTA</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=https://posicionamiento-seo-mexico.com/blog-seo/el-archivo-sitemap-xml-y-sus-ventajas/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Comparte</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=El%20archivo%20sitemap%20xml%20y%20sus%20ventajas&url=https://posicionamiento-seo-mexico.com/blog-seo/el-archivo-sitemap-xml-y-sus-ventajas/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Tuitea</span></a><div class="onoffswitch2" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 2.5.4--><p>La entrada <a rel="nofollow" href="/blog-seo/el-archivo-sitemap-xml-y-sus-ventajas/">El archivo sitemap xml y sus ventajas</a> aparece primero en <a rel="nofollow" href="/">Posicionamiento SEO en México, Posicionamiento SEO en Buscadores</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://posicionamiento-seo-mexico.com/blog-seo/el-archivo-sitemap-xml-y-sus-ventajas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

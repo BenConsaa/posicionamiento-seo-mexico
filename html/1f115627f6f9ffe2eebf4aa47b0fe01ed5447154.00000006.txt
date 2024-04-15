@@ -1,0 +1,27 @@
+User-agent: *
+
+Allow: /
+Allow: /*.css$
+Allow: /*.js$
+Disallow: /controllers/
+Disallow: /less/
+Disallow: /lib/
+Disallow: /mas-informacion-sobre-las-cookies/
+Disallow: /politica-de-cookies/
+Disallow: /views/
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-Agent: Googlebot
+Allow: /*.css$
+Allow: /*.js$
+
+User-agent: Googlebot-Image
+Allow: /*
+
+Crawl-delay: 60
+
+Sitemap: https://www.posicionamiento-seo-mexico.com/sitemap.xml
+
+#update 15 05 2016
